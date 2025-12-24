@@ -15,7 +15,7 @@ I discovered my passion for technology at 14, starting with Python. A few months
 
 📈 Philosophy: "Getting at least 1% better everyday"
 
-📊 GitHub Stats📬 ![Stats](https://github-readme-stats.vercel.app/api?username=0Zane&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/0Zane?cardType=github&theme=github-dark&fontFamily=ADLaM%20Display&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
