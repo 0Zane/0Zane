@@ -1,4 +1,4 @@
-![](https://github.com/0Zane/0Zane/blob/c894d26d126179db6affed04bd1ea50566167ad3/ZANE.png)
+![]([https://github.com/0Zane/0Zane/blob/c894d26d126179db6affed04bd1ea50566167ad3/ZANE.png](https://github.com/0Zane/0Zane/blob/5ee146e2329e9beb6a55ef87a41b2f6311f78153/ZANE%20(1).png))
 
 
 🚀 Hi, I'm 0Zane !
