@@ -5,11 +5,11 @@
 
 Highschool student passionated by embedded systems and technology from software, to hardware .
 
-#About Me
+# About Me
 
 I discovered my passion for technology at 14, starting with Python. A few months ago, I fell in love with electronics, which pushed me to go deeper into low-level programming. I am now learning C++ through the MCU ecosystem and learning to bring my ideas to life by designing custom PCBs.
 
-🔭 Current Project: Developing Fokon, a feature-rich Discord bot.
+🔭 Current Project: Building a smart watch grom scratch
 
 🌱 Learning Path: Deepening my knowledge in C++ and PCB Design, and soon diving into 3D Modeling (CAD) for mechanical prototyping.
 
