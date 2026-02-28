@@ -11,13 +11,19 @@ English, French, Spanish
 
 I am learning : Mandarin, Portuguese
 
-I am currently building KoaLabz, 
+My favourite programming languages are (junior level):
+[![Tools](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+
+I love also love dealing with hardware and electronics especially ESP32 and raspberryPi
+[![Tools](https://skillicons.dev/icons?i=arduinoide,raspberrypi)](https://skillicons.dev)
+
+I am currently building KoaLabz using:
+[![Tools](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
 
+The tools i use in my daily life:
 
-
-My favourite tools in my daily life:
-[![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,spotify)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,spotify,notion,stackoverflow)](https://skillicons.dev)
 
 🌱 Learning Path: Deepening my knowledge in C++ and PCB Design, and soon diving into 3D Modeling (CAD) for case prototyping.
 
