@@ -1,7 +1,7 @@
 ![](https://github.com/0Zane/0Zane/blob/5ee146e2329e9beb6a55ef87a41b2f6311f78153/ZANE%20(1).png)
 
 
-🚀 Hi, I'm 0Zane !
+🚀 Hi, I'm Zane !
 
 Highschool student passionated by embedded systems and technology from software, to hardware .
 
@@ -11,7 +11,13 @@ English, French, Spanish
 
 I am learning : Mandarin, Portuguese
 
-🔭 Current Project: Building a smart watch and it's firmware based on a ESP32 . From the firmware in c++ to the PCB
+I am currently building KoaLabz, 
+
+
+
+
+My favourite tools in my daily life:
+[![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,spotify)](https://skillicons.dev)
 
 🌱 Learning Path: Deepening my knowledge in C++ and PCB Design, and soon diving into 3D Modeling (CAD) for case prototyping.
 
