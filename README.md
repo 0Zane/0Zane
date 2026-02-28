@@ -11,22 +11,21 @@ English, French, Spanish
 
 I am learning : Mandarin, Portuguese
 
-
+<br><br>
 
 ## My favourite programming languages are (junior level): <br>
 [![Tools](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
-
-
+<br><br>
 ## I love also love dealing with hardware and electronics especially ESP32 and raspberryPi<br>
-[![Tools](https://skillicons.dev/icons?i=arduinoide,raspberrypi)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
-
+<br><br>
 
 ## I am currently building the website for KoaLabz using:<br>
 [![Tools](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
-
+<br><br>
 ## The tools i use in my daily life:<br>
 [![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,spotify,notion,stackoverflow)](https://skillicons.dev)
 
