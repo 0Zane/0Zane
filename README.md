@@ -13,7 +13,7 @@ I am learning : Mandarin, Portuguese
 
 <br><br>
 
-## My favourite programming languages are (junior level): <br>
+## My favorite programming languages are (junior level): <br>
 [![Tools](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
 <br><br>
