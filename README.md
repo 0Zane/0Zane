@@ -27,7 +27,7 @@ I am learning : Mandarin, Portuguese
 
 <br><br>
 ## The tools i use in my daily life:<br>
-[![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,spotify,notion,stackoverflow)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=windows,vscode,github,discord,notion,stackoverflow)](https://skillicons.dev)
 
 
 🌱 Learning Path: Deepening my knowledge in C++ and PCB Design, and soon diving into 3D Modeling (CAD) for case prototyping.
