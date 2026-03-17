@@ -22,8 +22,8 @@ I am learning : Mandarin, Portuguese
 
 <br><br>
 
-## I am currently building the website for KoaLabz using:<br>
-[![Tools](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+## I am currently building FloraCare, an electronic+ micropython project:<br>
+[![My Skills](https://skillicons.dev/icons?i=kicad)](https://skillicons.dev)
 
 <br><br>
 ## The tools i use in my daily life:<br>
