@@ -9,7 +9,7 @@
 ```
 EMBEDDED SYSTEMS  ·  PCB DESIGN  ·  SOFTWARE ENGINEERING
 ```
-
+![](https://komarev.com/ghpvc/?username=0zane)
 </div>
 
 ---
