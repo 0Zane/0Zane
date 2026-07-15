@@ -28,18 +28,19 @@ Currently deepening expertise in C++ for real-time embedded applications and PCB
 **Languages & Frameworks**
 | Language | Context |
 |---|---|
-| C++ | Embedded firmware, ESP32, real-time logic |
+| C++ | Embedded firmware, ESP32, STM32, real-time logic |
 | Python | Scripting, automation, data processing |
-| Next.js | Web — currently learning |
 
 **Hardware Platforms**
 | Platform | Use |
 |---|---|
 | ESP32 | Primary MCU — Wi-Fi/BLE IoT prototyping, Arduino framework |
+| STM32 | MCU development, STM32CubeIDE, HAL libraries |
 
 **EDA & Design Tools**
 | Tool | Use |
 |---|---|
+| STM32CubeIDE | STM32 MCU firmware development, CubeMX and HAL integration |
 | KiCad | Schematic capture, PCB layout & routing |
 | Fusion 360 | 3D modeling, mechanical enclosure design & prototyping |
 | Git / GitHub | Version control, project documentation |
@@ -99,7 +100,7 @@ Currently deepening expertise in C++ for real-time embedded applications and PCB
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0A7CCA?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/development-tools/stm32cubeide.html)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://espressif.com/)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
